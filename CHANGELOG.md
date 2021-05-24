@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/devops-adeel/devops-adeel/compare/v1.0.0...v1.0.1) (2021-05-24)
+
+
+### Bug Fixes
+
+* removed pins in profile url ([77cee1a](https://www.github.com/devops-adeel/devops-adeel/commit/77cee1a88e10ba436471077ebdb2070cf667ed2b))
+
 ## [1.0.0](https://www.github.com/devops-adeel/devops-adeel/compare/v0.2.0...v1.0.0) (2021-05-24)
 
 
