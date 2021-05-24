@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://www.github.com/devops-adeel/devops-adeel/compare/v0.2.0...v1.0.0) (2021-05-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* Added new readme-stats
+
+### Features
+
+* Added new readme-stats ([b9ed610](https://www.github.com/devops-adeel/devops-adeel/commit/b9ed6109176c085102cc2621091ba6ef55818b19))
+
 ## [0.2.0](https://www.github.com/devops-adeel/devops-adeel/compare/v0.1.0...v0.2.0) (2021-03-18)
 
 
